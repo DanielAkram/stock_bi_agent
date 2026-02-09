@@ -1,0 +1,7 @@
+# databases
+*.db
+*.db-shm
+*.db-wal
+
+# runtime artifacts
+assert/
